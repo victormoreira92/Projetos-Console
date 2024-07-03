@@ -1,0 +1,51 @@
+dia,mês,ano,hora,time1,time2,pontos_time1,pontos_time2
+14,4,23,19:30:00,União Corinthians,Fortaleza B.C.,91,75
+13,4,23,19:15:00,Corinthians Paulista,Cerrado,78,66
+13,4,23,19:00:00,Paulistano,Brasília,113,71
+12,4,23,20:00:00,Caxias do Sul,Fortaleza B.C.,66,77
+12,4,23,20:00:00,Rio Claro,São José,80,92
+11,4,23,20:00:00,Paulistano,São Paulo,99,57
+10,4,23,20:00:00,Franca,Flamengo,83,70
+10,4,23,19:30:00,Bauru,União Corinthians,81,61
+10,4,23,19:30:00,Pato,Cerrado,98,91
+8,4,23,18:00:00,Bauru,Caxias do Sul,89,69
+8,4,23,18:00:00,Rio Claro,Flamengo,53,100
+8,4,23,15:00:00,Fortaleza B.C.,Minas,85,94
+8,4,23,11:00:00,Pinheiros,União Corinthians,94,70
+7,4,23,19:30:00,Pato,Brasília,91,64
+6,4,23,20:00:00,Cerrado,Franca,68,106
+6,4,23,19:15:00,Unifacisa,Minas,79,69
+5,4,23,20:00:00,Flamengo,Paulistano,83,70
+5,4,23,19:00:00,Pinheiros,Caxias do Sul,89,82
+4,4,23,20:00:00,Brasília,Franca,72,87
+3,4,23,20:00:00,Corinthians Paulista,Caxias do Sul,75,76
+3,4,23,19:00:00,Minas,Paulistano,105,70
+1,4,23,19:00:00,União Corinthians,Unifacisa,82,85
+1,4,23,18:00:00,Flamengo,São Paulo,79,70
+1,4,23,18:00:00,Franca,São José,95,75
+31,3,23,19:00:00,Minas,Pato,82,90
+30,3,23,20:00:00,Caxias do Sul,Unifacisa,55,58
+30,3,23,19:30:00,Brasília,Rio Claro,74,92
+30,3,23,19:15:00,São José,São Paulo,97,84
+29,3,23,19:30:00,Bauru,Pinheiros,82,71
+28,3,23,20:00:00,Cerrado,Rio Claro,109,84
+28,3,23,20:00:00,Minas,Corinthians Paulista,88,86
+27,3,23,20:00:00,Flamengo,São José,96,68
+27,3,23,19:30:00,União Corinthians,Franca,83,86
+25,3,23,18:00:00,Caxias do Sul,Franca,76,89
+24,3,23,20:00:00,Corinthians Paulista,União Corinthians,82,78
+24,3,23,20:00:00,Fortaleza B.C.,Pinheiros,78,92
+24,3,23,19:30:00,Unifacisa,Bauru,71,81
+23,3,23,20:00:00,Rio Claro,Minas,79,97
+23,3,23,19:30:00,São José,Paulistano,71,77
+23,3,23,19:15:00,Brasília,Flamengo,75,109
+22,3,23,20:00:00,Fortaleza B.C.,Bauru,100,101
+22,3,23,19:30:00,Pato,União Corinthians,66,68
+22,3,23,19:30:00,Unifacisa,Pinheiros,69,80
+21,3,23,20:00:00,Cerrado,Flamengo,70,102
+21,3,23,20:00:00,Franca,Minas,94,90
+14,3,23,20:00:00,Minas,São Paulo,87,76
+13,3,23,19:30:00,União Corinthians,Rio Claro,95,83
+13,3,23,19:00:00,Paulistano,Cerrado,91,77
+11,3,23,18:00:00,Bauru,Pato,74,55
+11,3,23,18:00:00,Pinheiros,Corinthians Paulista,78,69

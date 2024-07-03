@@ -1,0 +1,14 @@
+/home/vhmrj92/Net/AD220231/bin/Debug/net8.0/AD220231
+/home/vhmrj92/Net/AD220231/bin/Debug/net8.0/AD220231.deps.json
+/home/vhmrj92/Net/AD220231/bin/Debug/net8.0/AD220231.runtimeconfig.json
+/home/vhmrj92/Net/AD220231/bin/Debug/net8.0/AD220231.dll
+/home/vhmrj92/Net/AD220231/bin/Debug/net8.0/AD220231.pdb
+/home/vhmrj92/Net/AD220231/obj/Debug/net8.0/AD220231.GeneratedMSBuildEditorConfig.editorconfig
+/home/vhmrj92/Net/AD220231/obj/Debug/net8.0/AD220231.AssemblyInfoInputs.cache
+/home/vhmrj92/Net/AD220231/obj/Debug/net8.0/AD220231.AssemblyInfo.cs
+/home/vhmrj92/Net/AD220231/obj/Debug/net8.0/AD220231.csproj.CoreCompileInputs.cache
+/home/vhmrj92/Net/AD220231/obj/Debug/net8.0/AD220231.dll
+/home/vhmrj92/Net/AD220231/obj/Debug/net8.0/refint/AD220231.dll
+/home/vhmrj92/Net/AD220231/obj/Debug/net8.0/AD220231.pdb
+/home/vhmrj92/Net/AD220231/obj/Debug/net8.0/AD220231.genruntimeconfig.cache
+/home/vhmrj92/Net/AD220231/obj/Debug/net8.0/ref/AD220231.dll
